@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+qdrant_data/.lock
+10k_documents/
+10k_extracted/
+extracted_submissions/
